@@ -10,7 +10,7 @@ I'm a bug bounty hunter and penetration tester. I started as a penetration teste
 - C/C++. The first programming language i learned, was C, And i love coding C to create applications as a fun project.
 - Game Hacking, Malware analysis and Reverse engineering. I'm kinda new in these but i'm really passionate about them.
 - Game Development. Since i was a child, i dreamed of creating my own video games. I still remember playing the first time i played Street Fighter II on my Sega Genesis and i asked myself "Will i ever create my own game like this?"
-- AI. I'm new into this but i found it fun so i started learning about it. I know it might be a bit tought... But i'm sure i can learn it.
+- AI. I'm new into this but i found it fun.
 ### My skills:
 - OWASP Top 10
 - Network+
