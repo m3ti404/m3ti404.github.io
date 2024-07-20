@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: m3ti404 | My personal blog # the main title
+title: m3ti404 # the main title
 
-tagline: A personal blog about coding and hacking # it will display as the sub-title
+tagline: My personal blog about coding and hacking # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A Blog you can find coding stuff in it
@@ -100,7 +100,7 @@ avatar: "https://avatars.githubusercontent.com/u/74054557"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: "https://avatars.githubusercontent.com/u/74054557"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
