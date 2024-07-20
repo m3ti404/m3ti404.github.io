@@ -5,14 +5,14 @@ order: 4
 ---
 
 # Me
-### Mehdi Vahabi
+## Mehdi Vahabi
 I'm a bug bounty hunter and penetration tester. I started as a penetration tester but continued to work as a bug bounty hunter. I'm still a newbie but i am constantly trying to get better and better.
 ### My hobbies:
-1. Python | I enjoy scripting tools that helps me find vulneribilities faster in Python.
-2. C/C++ | The first programming language i learned, was C, And i love coding C to create applications as a fun project.
-3. Game Hacking, Malware analysis and Reverse engineering | I'm kinda new in these but i'm really passionate about them.
-4. Game Development | Since i was a child, i dreamed of creating my own video games. I still remember playing the first time i played Street Fighter II on my Sega Genesis and i asked myself "Will i ever create my own game like this?"
-5. AI | I'm new into this but i found it fun so i started learning about it. I know it might be a bit tought... But i'm sure i can learn it.
+1. Python. I enjoy scripting tools that helps me find vulneribilities faster in Python.
+2. C/C++. The first programming language i learned, was C, And i love coding C to create applications as a fun project.
+3. Game Hacking, Malware analysis and Reverse engineering. I'm kinda new in these but i'm really passionate about them.
+4. Game Development. Since i was a child, i dreamed of creating my own video games. I still remember playing the first time i played Street Fighter II on my Sega Genesis and i asked myself "Will i ever create my own game like this?"
+5. AI. I'm new into this but i found it fun so i started learning about it. I know it might be a bit tought... But i'm sure i can learn it.
 ### My skills:
 1. OWASP Top 10
 2. Network+
