@@ -3,9 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-# Me
-## Mehdi Vahabi
+# Mehdi Vahabi
 I'm a bug bounty hunter and penetration tester. I started as a penetration tester but continued to work as a bug bounty hunter. I'm still a newbie but i am constantly trying to get better and better.
 ### My hobbies:
 - Python. I enjoy scripting tools that helps me find vulneribilities faster in Python.
