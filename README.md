@@ -1,4 +1,4 @@
-Hey. This is my github pages source code
+This is my github pages source code
 [https://m3ti404.github.io](https://m3ti404.github.io)
 
 
